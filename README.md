@@ -1,3 +1,3 @@
-# Terraform aplicação auto escálavel
+# Terraform aplicação auto escalável
 
 Criando aplicação auto escalável com Terraform.
